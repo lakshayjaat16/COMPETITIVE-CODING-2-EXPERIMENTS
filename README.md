@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/lakshayjaat16/COMPETITIVE-CODING-2-EXPERIMENTS/tree/master/0234-palindrome-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/lakshayjaat16/COMPETITIVE-CODING-2-EXPERIMENTS/tree/master/0328-odd-even-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
