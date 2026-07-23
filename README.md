@@ -30,4 +30,8 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/lakshayjaat16/COMPETITIVE-CODING-2-EXPERIMENTS/tree/master/0232-implement-queue-using-stacks) |
+## Array
+|  |
+| ------- |
+| [0896-monotonic-array](https://github.com/lakshayjaat16/COMPETITIVE-CODING-2-EXPERIMENTS/tree/master/0896-monotonic-array) |
 <!---LeetCode Topics End-->
