@@ -33,5 +33,10 @@
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/lakshayjaat16/COMPETITIVE-CODING-2-EXPERIMENTS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0896-monotonic-array](https://github.com/lakshayjaat16/COMPETITIVE-CODING-2-EXPERIMENTS/tree/master/0896-monotonic-array) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/lakshayjaat16/COMPETITIVE-CODING-2-EXPERIMENTS/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
