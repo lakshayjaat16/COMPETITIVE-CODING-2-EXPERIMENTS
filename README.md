@@ -37,6 +37,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/lakshayjaat16/COMPETITIVE-CODING-2-EXPERIMENTS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/lakshayjaat16/COMPETITIVE-CODING-2-EXPERIMENTS/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/lakshayjaat16/COMPETITIVE-CODING-2-EXPERIMENTS/tree/master/0078-subsets) |
+| [0322-coin-change](https://github.com/lakshayjaat16/COMPETITIVE-CODING-2-EXPERIMENTS/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/lakshayjaat16/COMPETITIVE-CODING-2-EXPERIMENTS/tree/master/0403-frog-jump) |
 | [0896-monotonic-array](https://github.com/lakshayjaat16/COMPETITIVE-CODING-2-EXPERIMENTS/tree/master/0896-monotonic-array) |
 ## Binary Search
@@ -69,9 +70,22 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/lakshayjaat16/COMPETITIVE-CODING-2-EXPERIMENTS/tree/master/0070-climbing-stairs) |
+| [0322-coin-change](https://github.com/lakshayjaat16/COMPETITIVE-CODING-2-EXPERIMENTS/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/lakshayjaat16/COMPETITIVE-CODING-2-EXPERIMENTS/tree/master/0403-frog-jump) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/lakshayjaat16/COMPETITIVE-CODING-2-EXPERIMENTS/tree/master/0070-climbing-stairs) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/lakshayjaat16/COMPETITIVE-CODING-2-EXPERIMENTS/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/lakshayjaat16/COMPETITIVE-CODING-2-EXPERIMENTS/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/lakshayjaat16/COMPETITIVE-CODING-2-EXPERIMENTS/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
