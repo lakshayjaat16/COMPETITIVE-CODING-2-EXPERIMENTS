@@ -54,6 +54,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/lakshayjaat16/COMPETITIVE-CODING-2-EXPERIMENTS/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/lakshayjaat16/COMPETITIVE-CODING-2-EXPERIMENTS/tree/master/0258-add-digits) |
 ## Simulation
 |  |
@@ -63,4 +64,12 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/lakshayjaat16/COMPETITIVE-CODING-2-EXPERIMENTS/tree/master/0258-add-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/lakshayjaat16/COMPETITIVE-CODING-2-EXPERIMENTS/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/lakshayjaat16/COMPETITIVE-CODING-2-EXPERIMENTS/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
