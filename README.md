@@ -51,4 +51,16 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/lakshayjaat16/COMPETITIVE-CODING-2-EXPERIMENTS/tree/master/0078-subsets) |
+## Math
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/lakshayjaat16/COMPETITIVE-CODING-2-EXPERIMENTS/tree/master/0258-add-digits) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/lakshayjaat16/COMPETITIVE-CODING-2-EXPERIMENTS/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/lakshayjaat16/COMPETITIVE-CODING-2-EXPERIMENTS/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
